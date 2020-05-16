@@ -1,11 +1,5 @@
 Radio	KEYWORD1
 init	KEYWORD2
-state.volume	KEYWORD2
-state.frequency	KEYWORD2
-state.hasStationName	KEYWORD2
-state.stationName	KEYWORD2
-state.isTuning	KEYWORD2
-state.isTunedToChannel	KEYWORD2
 setVolume	KEYWORD2
 setMute	KEYWORD2
 setSoftMute	KEYWORD2
